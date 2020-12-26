@@ -1,0 +1,13 @@
+{
+  "main.css": "/lightsout/static/css/main.a35f62f9.chunk.css",
+  "main.js": "/lightsout/static/js/main.563a51d7.chunk.js",
+  "main.js.map": "/lightsout/static/js/main.563a51d7.chunk.js.map",
+  "static/js/1.b43a7eab.chunk.js": "/lightsout/static/js/1.b43a7eab.chunk.js",
+  "static/js/1.b43a7eab.chunk.js.map": "/lightsout/static/js/1.b43a7eab.chunk.js.map",
+  "runtime~main.js": "/lightsout/static/js/runtime~main.5140b50a.js",
+  "runtime~main.js.map": "/lightsout/static/js/runtime~main.5140b50a.js.map",
+  "static/css/main.a35f62f9.chunk.css.map": "/lightsout/static/css/main.a35f62f9.chunk.css.map",
+  "index.html": "/lightsout/index.html",
+  "precache-manifest.bb7ab8c0cc4948f4b289a41e22bec11c.js": "/lightsout/precache-manifest.bb7ab8c0cc4948f4b289a41e22bec11c.js",
+  "service-worker.js": "/lightsout/service-worker.js"
+}
