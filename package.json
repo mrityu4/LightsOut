@@ -2,12 +2,13 @@
   "name": "react-lights-out",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mrityu4.github.io/LightsOut",
-
+  "homepage": "http://mrityu4.github.io/lightsout",
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "save-dev": "0.0.1-security"
   },
   "scripts": {
     "start": "react-scripts start",
